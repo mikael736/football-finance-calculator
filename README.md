@@ -28,7 +28,3 @@ streamlit run app.py
 - **Framework:** Streamlit
 - **Language:** Python 3.x
 - **Data Processing:** Pandas
-
-## Author
-
-[Your name]
