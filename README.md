@@ -23,12 +23,6 @@ streamlit run app.py
 
 3. Open your browser to: http://localhost:8501
 
-## Deployment
-
-This app is deployed on Streamlit Community Cloud.
-
-**Live URL:** [To be added after deployment]
-
 ## Tech Stack
 
 - **Framework:** Streamlit
